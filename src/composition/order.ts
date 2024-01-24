@@ -1,0 +1,1 @@
+export type orderTerm = "title" | "location" | "salary"
